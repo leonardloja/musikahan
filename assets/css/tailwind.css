@@ -1,0 +1,7 @@
+:root {
+    --primary: #239A4E;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
