@@ -58,3 +58,9 @@ const route = useRoute();
     color: var(--primary);
 }
 </style>
+
+<style lang="postcss">
+body {
+    @apply text-slate-800;
+}
+</style>
