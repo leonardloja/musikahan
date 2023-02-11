@@ -44,12 +44,11 @@ const route = useRoute();
         News
       </NuxtLink>
       <NuxtLink
-        href="/competitive-event-guidelines"
+        href="/about"
         :class="[
           'un text-lg font-semibold',
           {
-            'text-[var(--primary)]':
-              route.path == '/competitive-event-guidelines',
+            'text-[var(--primary)]': route.path == '/about',
           },
         ]"
       >

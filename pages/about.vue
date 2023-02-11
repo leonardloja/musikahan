@@ -2,11 +2,11 @@
   <div class="bg-white">
     <div class="mx-auto max-w-7xl py-16 px-6 sm:py-24 lg:px-8">
       <div class="text-center">
-        <h2 class="text-lg font-semibold text-indigo-600">About us</h2>
+        <!-- <h2 class="text-lg font-semibold text-indigo-600">About us</h2> -->
         <p
           class="mt-1 text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl lg:text-6xl"
         >
-          Lorem ipsum dolor sit amet..
+          About UMTC
         </p>
         <p class="mx-auto mt-5 max-w-xl text-xl text-gray-500">
           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laudantium
@@ -15,6 +15,126 @@
       </div>
     </div>
   </div>
+  <!-- Vision -->
+  <section class="overflow-hidden py-6">
+    <div class="relative mx-auto max-w-7xl px-6 lg:px-8">
+      <svg
+        class="absolute top-full right-full translate-x-1/3 -translate-y-1/4 transform lg:translate-x-1/2 xl:-translate-y-1/2"
+        width="404"
+        height="404"
+        fill="none"
+        viewBox="0 0 404 404"
+        role="img"
+        aria-labelledby="svg-workcation"
+      >
+        <title id="svg-workcation">Workcation</title>
+        <defs>
+          <pattern
+            id="ad119f34-7694-4c31-947f-5c9d249b21f3"
+            x="0"
+            y="0"
+            width="20"
+            height="20"
+            patternUnits="userSpaceOnUse"
+          >
+            <rect
+              x="0"
+              y="0"
+              width="4"
+              height="4"
+              class="text-gray-200"
+              fill="currentColor"
+            />
+          </pattern>
+        </defs>
+        <rect
+          width="404"
+          height="404"
+          fill="url(#ad119f34-7694-4c31-947f-5c9d249b21f3)"
+        />
+      </svg>
+
+      <div class="relative">
+        <img
+          class="mx-auto h-8"
+          src="https://tailwindui.com/img/logos/workcation-logo-indigo-600-mark-gray-800-and-indigo-600-text.svg"
+          alt="Workcation"
+        />
+        <blockquote class="mt-10">
+          <div
+            class="mx-auto max-w-3xl text-center text-2xl font-medium leading-9 text-gray-900"
+          >
+            <p>
+              &ldquo;The University of Mindanao envisions to be a leading
+              globally engaged university creating sustainable impact in
+              society.&rdquo;
+            </p>
+          </div>
+        </blockquote>
+      </div>
+    </div>
+  </section>
+
+  <!-- Mission -->
+  <section class="overflow-hidden py-6">
+    <div class="relative mx-auto max-w-7xl px-6 lg:px-8">
+      <svg
+        class="absolute top-full right-full translate-x-1/3 -translate-y-1/4 transform lg:translate-x-1/2 xl:-translate-y-1/2"
+        width="404"
+        height="404"
+        fill="none"
+        viewBox="0 0 404 404"
+        role="img"
+        aria-labelledby="svg-workcation"
+      >
+        <title id="svg-workcation">Workcation</title>
+        <defs>
+          <pattern
+            id="ad119f34-7694-4c31-947f-5c9d249b21f3"
+            x="0"
+            y="0"
+            width="20"
+            height="20"
+            patternUnits="userSpaceOnUse"
+          >
+            <rect
+              x="0"
+              y="0"
+              width="4"
+              height="4"
+              class="text-gray-200"
+              fill="currentColor"
+            />
+          </pattern>
+        </defs>
+        <rect
+          width="404"
+          height="404"
+          fill="url(#ad119f34-7694-4c31-947f-5c9d249b21f3)"
+        />
+      </svg>
+
+      <div class="relative">
+        <img
+          class="mx-auto h-8"
+          src="https://tailwindui.com/img/logos/workcation-logo-indigo-600-mark-gray-800-and-indigo-600-text.svg"
+          alt="Workcation"
+        />
+        <blockquote class="mt-10">
+          <div
+            class="mx-auto max-w-3xl text-center text-2xl font-medium leading-9 text-gray-900"
+          >
+            <p>
+              &ldquo;The University of Mindanao envisions to be a leading
+              globally engaged university creating sustainable impact in
+              society.&rdquo;
+            </p>
+          </div>
+        </blockquote>
+      </div>
+    </div>
+  </section>
+
   <!-- Footer -->
   <footer class="bg-white">
     <div class="mx-auto max-w-7xl overflow-hidden py-20 px-6 sm:py-24 lg:px-8">
